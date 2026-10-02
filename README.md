@@ -1,8 +1,16 @@
 # Localized Multimodal Interfaces in English-Default Mobile Apps
 
+![Research Summary](multilingual-ux-research-findings.png)
+
 ## Overview
 
 This research explores how English-only mobile interfaces influence comprehension, trust, cognitive load, and inclusivity for non-native users.
+
+The study examined onboarding and upgrade experiences in Duolingo, Spotify, and Notion through multimodal analysis and a user perception survey involving 56 participants.
+
+## Key Finding
+
+Italian L1 participants reported higher mental effort and lower trust than non-Italian L1 participants, despite comparable self-rated English proficiency.
 
 ## Research Focus
 
